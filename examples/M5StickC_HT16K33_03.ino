@@ -33,7 +33,7 @@ void loop() {
   matrix1.setRotation(1);
   matrix2.setRotation(1);
   //
-  // start         0x70            0x72    0x71
+  // start         0x70            0x74    0x71
   //                                       oooooooo ^ Hello World
   //                                      01      8   9
   //                               oooooooo
